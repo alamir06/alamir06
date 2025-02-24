@@ -30,7 +30,7 @@
 🧨&nbsp;&nbsp;Express:lightweight, flexible, and essential for smooth navigation..<br /><br /><br />  
 🧨&nbsp;&nbsp;Python:high-level, interpreted programming language known for its simplicity and readability.<br />
 <h2> Projects:</h2>
-- 👨‍💻 All of my projects are available at [https://github.com/alamir06/](https://github.com/alamir06/)<br />
+- 👨‍💻 All of my projects are available at [alamir@github](https://github.com/alamir06/)<br />
 <h3 >Connect with me:</h3><hr />
 <p >
 <a href="https://twitter.com/alamirewwagaw06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamirewwagaw06" height="30" width="40" /></a>
