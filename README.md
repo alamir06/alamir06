@@ -13,7 +13,7 @@
 <h1 >🎯Goal:</h1>
        &nbsp;&nbsp;. Build impactful projects & contribute to the developer community!<br /><br />
        &nbsp;&nbsp;. Solve the novle Problem!<br /><br />
-       &nbsp;&nbsp;.Be AN Entrepreneur!<br /><br />
+       &nbsp;&nbsp;.Be an Entrepreneur!<br /><br />
 <h2 >👨‍🏫 Current Status</h2>
   &nbsp;&nbsp;🔯&nbsp;&nbsp;4th Software Engineering Student<br />
   &nbsp;&nbsp;🔯&nbsp;&nbsp;Detail Doing Project on React,Express<br />
