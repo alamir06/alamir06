@@ -3,7 +3,7 @@
 <span align="center">✔</span align="left"><span>✔</span><span align="right">✔</span>
 <h1 align="center">Hi! I'm Alamirew Wagaw 👋</h1>
 <h3>.</h3>
-<h3 align="left">🎓 Software Engineering Student | <br /> <br />     💻 Passionate about Web Development & AI</h3><br />
+<h3 align="left">🎓 Software Engineering Student | <br /> <br />     💻 Passionate about Software Development & AI</h3><br />
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/10/03/58/99/240_F_1003589989_6NsF4FaseoJV1FKAgNupL9Vn879dvnhs.jpg">
 <br /><br /><br /><br />
 <h1 >🚀 About Me</h1>
