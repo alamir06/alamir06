@@ -8,8 +8,8 @@
 <br /><br />
 <h1 >🚀 About Me</h1>
       🎓  &nbsp;&nbsp;i'm Software Engineering Student.<br />
-      🌱 &nbsp;&nbsp;Currently learning React development, nodejs express Development.<br />
-      💡 &nbsp;&nbsp;Interested in **Full Stack Development, AI, and Open Source**.
+      🌱 &nbsp;&nbsp;Currently Do by React Framework,nodejs express Framework<br />
+      💡 &nbsp;&nbsp;Interested in Full Stack Development, AI.
 <div align="right" style="border:10px solid red">
 <h1 >🎯Goal:</h1> 
       &nbsp;&nbsp;✨Be an  Entrepreneur!<br /> 
