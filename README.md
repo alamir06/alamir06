@@ -1,28 +1,28 @@
 <div border="red">
 <img align="right" alt="Coding" width="100%" height="150" align="center" style="border-color⚪" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
 <span align="center">✔</span align="left"><span>✔</span><span align="right">✔</span>
-<h1 align="center" color="red">Hi! I'm Alamirew Wagaw 👋</h1>
+<h1 align="center" color="red">Hi! I'm Alamirew Wagaw </h1>
 <h3>.</h3>
 <h3 align="left">🎓 Software Engineering Student | <br /> <br />     💻 Passionate about Software Development & AI</h3>
 <img align="right" alt="Coding" width="400" height="150" src="https://t4.ftcdn.net/jpg/10/03/58/99/240_F_1003589989_6NsF4FaseoJV1FKAgNupL9Vn879dvnhs.jpg">
 <br /><br />
 <h1 >🚀 About Me</h1>
       🎓  &nbsp;&nbsp;i'm Software Engineering Student.<br />
-      🌱 &nbsp;&nbsp;Currently Do by React Framework,nodejs express Framework<br />
+      🌱 &nbsp;&nbsp;Currently Doing Project by React Framework,nodejs express Framework<br />
       💡 &nbsp;&nbsp;Interested in Full Stack Development, AI.
 <div align="right" style="border:10px solid red">
 <h1 >🎯Goal:</h1> 
       &nbsp;&nbsp;✨Be an  Entrepreneur!<br /> 
       &nbsp;&nbsp;✨Solve novle Problem!<br />
       &nbsp;&nbsp;✨Build impactful projects!<br />  
-      &nbsp;✨contribute to developer community!  
+      &nbsp;✨Contribute to developer community!  
 </div>
 </div>
 <div  align="left">
 <h2>👨‍🏫 Current Status</h2>
       <div  align="left">
-🔯&nbsp;4th year Software Engineering Student.<br />
-🔯&nbsp;Detail Doing Project on React,Express.<br />
+🔯&nbsp;last year Software Engineering Student.<br />
+🔯&nbsp;Doing Fullstack Projects<br />
 🔯&nbsp;Deep learning on python.
       </div>
 </div>
