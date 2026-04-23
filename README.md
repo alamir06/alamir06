@@ -34,12 +34,25 @@ okay thanks very much now on this <div border="red">
 </div>
 <h2> Projects:</h2>
 - 👨‍💻 All of my projects are available at [alamir@github](https://github.com/alamir06/)<br />
-<h3 >Connect with me:</h3><hr />
-<p >
-<a href="https://twitter.com/alamirewwagaw06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamirewwagaw06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alamirewwagaw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alamirewwagaw/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/alamir.alex.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/alamir.alex.7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@alamir_studio8495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alamir_studio8495" height="30" width="40" /></a>
+<h3 align="center">Connect with me</h3>
+<hr/>
+
+<p align="center">
+  <a href="https://twitter.com/alamirewwagaw06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/alamirewwagaw/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" />
+  </a>
+  
+  <a href="https://web.facebook.com/alamir.alex.7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" />
+  </a>
+  
+  <a href="https://www.youtube.com/@alamir_studio8495" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" />
+  </a>
 </p>
 <h2>📩Email:<h4><a href="mailto:akliluarse@gmail.com">akliluarse@gmail.com</a></h4></h2>
 <br /><br />
