@@ -1,4 +1,4 @@
-okay thanks very much now on this <div border="red">
+ <div border="red">
 <img align="right" alt="Coding" width="100%" height="150" align="center" style="border-color⚪" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
 <span align="center">✔</span align="left"><span>✔</span><span align="right">✔</span>
 <h1 align="center" color="red">Hi! I'm Alamirew Wagaw </h1>
