@@ -85,5 +85,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamir06&show_icons=true&locale=en&layout=compact" alt="alamir06" /></p>
 
-
-the icons visible after email vertically but i need horizontally with best box styles and make the icons visble in notes section it is square
