@@ -1,54 +1,117 @@
-<div border="red">
-<img align="right" alt="Coding" width="100%" height="150" align="center" style="border-color⚪" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
-<span align="center">✔</span align="left"><span>✔</span><span align="right">✔</span>
-<h1 align="center" color="red">Hi! I'm Alamirew Wagaw </h1>
-<h3>.</h3>
-<h3 align="left">🎓 Software Engineering Student | <br /> <br />     💻 Passionate about Software Development & AI</h3>
-<img align="right" alt="Coding" width="400" height="150" src="https://t4.ftcdn.net/jpg/10/03/58/99/240_F_1003589989_6NsF4FaseoJV1FKAgNupL9Vn879dvnhs.jpg">
-<br /><br />
-<h1 >🚀 About Me</h1>
-      🎓  &nbsp;&nbsp;i'm Software Engineering Student.<br />
-      🌱 &nbsp;&nbsp;Currently Doing Project by React Framework,nodejs express Framework<br />
-      💡 &nbsp;&nbsp;Interested in Full Stack Development, AI.
-<div align="right" style="border:10px solid red">
-<h1 >🎯Goal:</h1> 
-      &nbsp;&nbsp;✨Be an  Entrepreneur!<br /> 
-      &nbsp;&nbsp;✨Solve novle Problem!<br />
-      &nbsp;&nbsp;✨Build impactful projects!<br />  
-      &nbsp;✨Contribute to developer community!  
+<div align="center">
+
+<img alt="Coding" width="100%" height="200" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
+
+<h1>Hi! I'm Alamirew Wagaw 👋</h1>
+
+<h3>
+🎓 Software Engineering Student <br/><br/>
+💻 Passionate about Full Stack Development & AI
+</h3>
+
 </div>
-</div>
-<div  align="left">
+
+<br/>
+
+---
+
+<h2>🚀 About Me</h2>
+
+🎓 I'm a Software Engineering student  
+🌱 Currently building projects with React, Node.js, and Express  
+💡 Interested in Full Stack Development and Artificial Intelligence  
+
+<br/>
+
+<h2>🎯 Goals</h2>
+
+✨ Become an Entrepreneur  
+✨ Solve real-world problems  
+✨ Build impactful projects  
+✨ Contribute to the developer community  
+
+<br/>
+
 <h2>👨‍🏫 Current Status</h2>
-      <div  align="left">
-🔯&nbsp;last year Software Engineering Student.<br />
-🔯&nbsp;Doing Fullstack Projects<br />
-🔯&nbsp;Deep learning on python.
-      </div>
+
+🔯 Final-year Software Engineering Student  
+🔯 Building full-stack applications  
+🔯 Learning deep learning with Python  
+
+<br/>
+
+<h2>🧠 Tech I Work With</h2>
+
+<div align="center" style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  padding: 15px;
+  border-radius: 15px;
+  background-color: #0d1117;
+  border: 1px solid #30363d;
+">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+
 </div>
-<div  align="right">
-<h2 align="right">Talk With Me:</h2>
-🧨&nbsp;&nbsp;React:React makes intuitive,efficient component for UI development!.<br /> 
-🧨&nbsp;&nbsp;Express:lightweight, flexible, and essential for smooth navigation!<br />
-🧨&nbsp;&nbsp;Python:high-level,interpreted programming language for Development.<br />
-</div>
-<h2> Projects:</h2>
-- 👨‍💻 All of my projects are available at [alamir@github](https://github.com/alamir06/)<br />
-<h3 >Connect with me:</h3><hr />
-<p >
-<a href="https://twitter.com/alamirewwagaw06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamirewwagaw06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alamirewwagaw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alamirewwagaw/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/alamir.alex.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/alamir.alex.7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@alamir_studio8495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alamir_studio8495" height="30" width="40" /></a>
+
+<br/>
+
+<h2>📂 Projects</h2>
+
+👨‍💻 All of my projects:  
+👉 https://github.com/alamir06/
+
+<br/>
+
+<h2>📩 Contact Me</h2>
+
+<p align="center">
+📧 <a href="mailto:akliluarse@gmail.com">akliluarse@gmail.com</a>
 </p>
-<h2>📩Email:<h4><a href="mailto:akliluarse@gmail.com">akliluarse@gmail.com</a></h4></h2>
-<br /><br />
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br /><br /><p > <img src="https://komarev.com/ghpvc/?username=alamir06&label=Profile%20views&color=0e75b6&style=flat" alt="alamir06" /> </p>
 
-<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamir06" alt="alamir06" /></a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamir06&show_icons=true&locale=en&layout=compact" alt="alamir06" /></p>
+<h3 align="center">Connect with me</h3>
 
+<p align="center">
+  <a href="https://twitter.com/alamirewwagaw06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/alamirewwagaw/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>
+  <a href="https://web.facebook.com/alamir.alex.7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" />
+  </a>
+  <a href="https://www.youtube.com/@alamir_studio8495" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" />
+  </a>
+</p>
 
+<br/>
 
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=alamir06&label=Profile%20views&color=0e75b6&style=flat" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=alamir06" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alamir06&show_icons=true&locale=en&layout=compact" />
+
+</div>
