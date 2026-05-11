@@ -72,10 +72,17 @@
 ---
 
 ## 📊 GitHub Statistics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alamir06&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamir06&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alamir06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamir06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alamir06&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 
