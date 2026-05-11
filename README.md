@@ -9,27 +9,27 @@
 ## 🚀 About Me
 
 🎓 Software Engineering Graduate
-💻 Full-Stack Developer passionate about scalable web applications
-🔬 Research Enthusiast interested in AI, Machine Learning, and Gravitational Wave Analysis
+💻 Full-Stack Developer, Passionate about scalable Web Applications
+🔬 Research Enthusiast interested in AI, Machine Learning, and Deap Learning
 🌱 Currently improving my skills in:
 
-* React & Next.js
-* Node.js & NestJS
-* Machine Learning with Python
-* Backend Architecture & APIs
-* Cloud & Deployment
+ * React & Next.js
+ * Node.js, ExpressJS& NestJS
+ * Machine Learning with Python
+ * Backend Architecture & APIs(REST)
+ * Cloud & Deployment
 
-⚡ I enjoy building real-world systems from planning and development to deployment.
+⚡ Building Real-World Systems from Planning and Development to Deployment is My EverDay Passion.
 
 ---
 
 ## 🎯 Career Goals
 
-* Build impactful software solutions
-* Contribute to innovative research and AI systems
-* Become a strong Backend & AI Engineer
-* Solve real-world problems using technology
-* Grow into a technology entrepreneur
+ * Build Impactful Software Solutions
+ * Contribute to Innovative Research and AI
+ * Become a strong Backend & AI Engineer
+ * Solve Real-World problems using technology
+ * Grow into a technology entrepreneur
 
 ---
 
