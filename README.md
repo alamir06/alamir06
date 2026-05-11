@@ -1,4 +1,4 @@
-<p align="center"> Hi, I'm Alamirew Wagaw 👋</p>
+<h1 align="center"> Hi, I'm Alamirew Wagaw 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Software+Engineering+Graduate;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Research+Enthusiast" />
 </p>
@@ -14,7 +14,6 @@
  * Backend Architecture & APIs(REST)
  * Cloud & Deployment
 
-<p align="center">⚡ Building Real-World Systems from Planning and Development to Deployment is My EverDay Passion.</p>
 ## 🎯 My Goals
  * Build Impactful Software Solutions
  * Contribute to Innovative Research and AI
@@ -30,27 +29,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-</p>
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
-</p>
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
   <img src="https://nestjs.com/img/logo-small.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
-</p>
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
-</p>
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
@@ -60,11 +51,11 @@
 
 ## 📌 Featured Projects
 
-### 🔹 PERN-stack Human Resource Management System.
-### 🔹 PERN-stack Parent Travel Tracker System
-### 🔹 Customer Feadback Monitoring System by using React,NestJS,Mysql and NodeJs.
-### 🔹 Community Fortune Backend authentication system using JWT, role management, and secure APIs.
-### 🔹 Portfolio Website for Organizations By React and NextJS 
+ * 🔹 PERN-stack Human Resource Management System.
+ * 🔹 PERN-stack Parent Travel Tracker System
+ * 🔹 Customer Feadback Monitoring System by using React,NestJS,Mysql and NodeJs.
+ * 🔹 Community Fortune Backend authentication system using JWT, role management, and secure APIs.
+ * 🔹 Portfolio Website for Organizations By React and NextJS 
 ---
 
 ## 📚 Research Interests
@@ -106,7 +97,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" />
   </a>
 
-  <a href="https://www.youtube.com/@alamir_studio8495" target="_blank">
+  <a href="https://www.youtube.com/@Akal_Tech" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" />
   </a>
 </p>
@@ -114,5 +105,4 @@
 📧 Email: **[akliluarse@gmail.com](mailto:akliluarse@gmail.com)**
 
 ---
-
-<p align="center"> ⭐ “Building Technology Solutions and Research-Driven Systems for Real-World Problems”</p>
+<p align="center">⚡ Building Real-World Systems from Planning and Development to Deployment is My EverDay Passion.</p>
