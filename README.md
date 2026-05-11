@@ -1,30 +1,21 @@
-# Hi, I'm Alamirew Wagaw 👋
-
+<p align="center"> Hi, I'm Alamirew Wagaw 👋</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Software+Engineering+Graduate;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Research+Enthusiast" />
 </p>
 
----
-
 ## 🚀 About Me
-
-🎓 Software Engineering Graduate
-💻 Full-Stack Developer, Passionate about scalable Web Applications
-🔬 Research Enthusiast interested in AI, Machine Learning, and Deap Learning
+🎓 Software Engineering Graduate <br>
+💻 Full-Stack Developer, Passionate about scalable Web Applications<br>
+🔬 Research Enthusiast interested in AI, Machine Learning, and Deap Learning<br>
 🌱 Currently improving my skills in:
-
  * React & Next.js
  * Node.js, ExpressJS& NestJS
  * Machine Learning with Python
  * Backend Architecture & APIs(REST)
  * Cloud & Deployment
 
-⚡ Building Real-World Systems from Planning and Development to Deployment is My EverDay Passion.
-
----
-
-## 🎯 Career Goals
-
+<p align="center">⚡ Building Real-World Systems from Planning and Development to Deployment is My EverDay Passion.</p>
+## 🎯 My Goals
  * Build Impactful Software Solutions
  * Contribute to Innovative Research and AI
  * Become a strong Backend & AI Engineer
@@ -34,18 +25,12 @@
 ---
 
 ## 🛠️ Tech Stack
-
-### Programming Languages
-
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 </p>
-
-### Frontend Development
-
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
@@ -53,17 +38,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
 </p>
-
-### Backend Development
-
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
   <img src="https://nestjs.com/img/logo-small.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
 </p>
-
-### Database & Cloud
-
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
@@ -71,9 +50,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
 </p>
-
-### AI / Machine Learning
-
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
@@ -84,33 +60,22 @@
 
 ## 📌 Featured Projects
 
-### 🔹 HR Management System
-
-Full-stack MERN application for employee, payroll, and asset management.
-
-### 🔹 Online Examination System
-
-Secure web-based examination platform with authentication and role-based access.
-
-### 🔹 LIGO Gravitational Wave Analysis
-
-Research project focused on Bayesian parameter estimation and waveform analysis using Python.
-
-### 🔹 REST API Authentication System
-
-Backend authentication system using JWT, role management, and secure APIs.
-
+### 🔹 PERN-stack Human Resource Management System.
+### 🔹 PERN-stack Parent Travel Tracker System
+### 🔹 Customer Feadback Monitoring System by using React,NestJS,Mysql and NodeJs.
+### 🔹 Community Fortune Backend authentication system using JWT, role management, and secure APIs.
+### 🔹 Portfolio Website for Organizations By React and NextJS 
 ---
 
 ## 📚 Research Interests
 
-* Artificial Intelligence
-* Machine Learning
-* Backend Systems
-* Distributed Systems
-* Data Science
-* Bayesian Parameter Estimation
-* Gravitational Wave Data Analysis
+ * Artificial Intelligence
+ * Machine Learning
+ * Backend Systems
+ * Distributed Systems
+ * Data Science
+ * Full-stack System Architect
+ * Project Managemnt
 
 ---
 
@@ -150,4 +115,4 @@ Backend authentication system using JWT, role management, and secure APIs.
 
 ---
 
-⭐ “Building technology solutions and research-driven systems for real-world impact.”
+<p align="center"> ⭐ “Building Technology Solutions and Research-Driven Systems for Real-World Problems”</p>
