@@ -73,15 +73,15 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alamir06&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alamir06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamir06&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamir06&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alamir06" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alamir06&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -100,6 +100,10 @@
   <a href="https://www.youtube.com/@Akal_Tech" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" />
   </a>
+
+  <a href="https://t.me/alamir_tel" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="35" />
+</a>
 </p>
 
 📧 Email: **[akliluarse@gmail.com](mailto:akliluarse@gmail.com)**
