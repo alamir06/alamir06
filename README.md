@@ -55,7 +55,8 @@
  * 🔹 PERN-stack Parent Travel Tracker System
  * 🔹 Customer Feadback Monitoring System by using React,NestJS,Mysql and NodeJs.
  * 🔹 Community Fortune Backend authentication system using JWT, role management, and secure APIs.
- * 🔹 Portfolio Website for Organizations By React and NextJS 
+ * 🔹 Portfolio Website for Organizations By React and NextJS
+ * 🔹 Research in Predicting Train Arrival And Deaprture Time Using ANN,Random Forest and Gradient Boosting  
 ---
 
 ## 📚 Research Interests
@@ -71,18 +72,12 @@
 ---
 
 ## 📊 GitHub Statistics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alamir06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alamir06&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamir06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamir06&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alamir06&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
